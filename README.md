@@ -1,3 +1,4 @@
 #Git 저장소
 첫 저장소입니다.
 I can push.
+I can pull.
